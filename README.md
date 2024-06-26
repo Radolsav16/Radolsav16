@@ -4,7 +4,7 @@
 I'm a 16-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills across various domains, including web development and software development.
 Also I want to fimilirize in Machine learning .
 
-## Education 
+## Education 🎓
 - Software University
 - Freecodecamp
 - Fullstack Learning Path CodeCademy
