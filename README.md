@@ -1,27 +1,26 @@
 
 # 👋 Hello, I'm Radoslav Todorov!
 
-I'm a 16-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills across various domains, including web development and software development.
+I'm a 17-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills across various domains, including web development and software development.
 Also I want to fimilirize in Machine learning .
 
 ## Education 🎓
 - Software University
 - Freecodecamp
-- Fullstack Learning Path CodeCademy
 
 ## 🚀 About Me
 
-- **Age:** 16
+- **Age:** 17
 - **Interests:** Web Development, Software Development, Machine Learning
 - **Goal:** To become a proficient and versatile developer, capable of building innovative and secure applications.
-- **Hobbies:** Fitness and BJJ
+
 
 ## 🛠️ Skills I'm Working On
 -Am focusing on my  Fullstack JavaScript learning path.
 
 ### Web Development
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React,Bootstrap,Express.js,Node js.
+- **Frameworks & Libraries:** React,Angular,Express.js,Node js,TypeScript.
 
 ### Reach me in 📫:todorovradoslav18@gmail.com
 <!---
