@@ -8,7 +8,7 @@ Also I want to fimilirize in Machine learning .
 - Software University
 
 ## Courses and Tutorials 🎓
--FreeCodeCamp - JavaScript Algorithms and Data Structure. Certificate link -> 
+- FreeCodeCamp JavaScript Algorithms and Data Structure. Certificate link -> 
 ## 🚀 About Me
 
 - **Age:** 17
