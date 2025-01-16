@@ -1,18 +1,16 @@
 
 # 👋 Hello, I'm Radoslav Todorov!
 
-I'm a 17-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills across various domains, including web development and software development.
-Also I want to fimilirize in Machine learning .
-
+I'm a 17-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills in  web development.
 ## Education 🎓
 - Software University
 
 ## Courses and Tutorials 🎓
-- FreeCodeCamp JavaScript Algorithms and Data Structure. Certificate link -> 
+- FreeCodeCamp JavaScript Algorithms and Data Structure.
 ## 🚀 About Me
 
 - **Age:** 17
-- **Interests:** Web Development, Software Development, Machine Learning
+- **Interests:** Web Development
 - **Goal:** To become a proficient and versatile developer, capable of building innovative and secure applications.
 
 
