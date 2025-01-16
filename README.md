@@ -19,7 +19,7 @@ I'm a 17-year-old aspiring developer with a passion for learning and building in
 
 ### Web Development
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React,Angular,Express.js,Node js,TypeScript.
+- **Frameworks & Libraries:** React,Express.js,Node js.
 
 ### Reach me in 📫:todorovradoslav18@gmail.com
 <!---
