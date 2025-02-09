@@ -14,12 +14,21 @@ I'm a 17-year-old aspiring developer with a passion for learning and building in
 - **Goal:** To become a proficient and versatile developer, capable of building innovative and secure applications.
 
 
-## 🛠️ Skills I'm Working On
--Am focusing on my  Fullstack JavaScript learning path.
+## 🚀 Skills
 
-### Web Development
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React,Express.js,Node js.
+### 🌐 JavaScript Ecosystem  
+- Proficient in JavaScript (ES6+)
+- Learning and working with modern JavaScript frameworks and libraries  
+  - React, Node.js, Express, Next.js  
+  - Building RESTful APIs and Full-Stack applications  
+- Frontend: HTML5, CSS3, TailwindCSS  
+- Backend: Node.js, MongoDB, PostgreSQL
+
+### 📈 Future Focus  
+- AI and Machine Learning 
+- Exploring AI libraries and frameworks: TensorFlow, PyTorch, OpenAI API  
+- Integration of AI with Full-Stack applications  
+
 
 ### Reach me in 📫:todorovradoslav18@gmail.com
 <!---
