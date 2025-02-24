@@ -1,10 +1,9 @@
 
 # 👋 Hello, I'm Radoslav Todorov!
 
-I'm a 17-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills in  web development,mobile development,AI.
+I'm a 17-year-old aspiring developer with a passion for learning and building in the tech world. I'm on a journey to develop my skills in  web development,mobile development AI and Machine Learning.
 ## Education 🎓
 - Software University
-- 
 ## 🚀 About Me
 
 - **Age:** 17
