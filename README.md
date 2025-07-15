@@ -15,9 +15,9 @@ I'm a 18-year-old aspiring developer with a passion for learning and building in
 
 ### 🌐 JavaScript Ecosystem  
 - [x]  JavaScript && TypeScript
-- [x] React, Redux,Node.js, Express,,  
+- [x] React, Redux ,RTQK,Next.js
 - [x] Frontend: HTML5, CSS3, TailwindCSS  
-- [x] Backend: Node.js, MongoDB, SQL,PostgreSQL
+- [x] Backend: Node.js, Express,MongoDB, SQL,PostgreSQL
 
 ### 📈 Future Focus  
 - AI and Machine Learning 
